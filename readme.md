@@ -1,5 +1,1 @@
-- I can talk about Good Software, but talking is not enough, So I learn, build, fail & learn from failure and build better Software.
-- Concentrating on Backend Systems, Cloud Scalability & AI systems.
-- I love to talk less about tools and work more with them.
-- current tools : Golang, Python, SQL-DBs & React / NEXT.js
-- I would love to explore Databases, Business-Intelligence, Research Domains eventually.
+I love to design things. 
