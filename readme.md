@@ -1,3 +1,5 @@
 <div>
-Backend | Fullstack | Agents x Systems | make DnB in free time 
+Backend | Fullstack | Agents x Systems
+<br>
+I program & compose electronic music too.
 </div>
