@@ -1,3 +1,3 @@
 <div>
-Backend | Fullstack | Agents | Cloud Infra | Systems 
+Backend & Systems.
 </div>
