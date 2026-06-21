@@ -1,7 +1,7 @@
 <p align="center">
 
 ### Backend & Systems
-- TypeScript & Python
+TypeScript & Python
 
 <br>
 
