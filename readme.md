@@ -1,10 +1,10 @@
-<div>
-Backend & Systems.
-</div>
+<p align="center">
 
-<br/>
+### Backend & Systems
+- TypeScript & Python
 
-<div>
-  
-[visit portfolio](https://yash-sonalekar.vercel.app "yash-sonalekar.vercel.app")
-</div>
+<br>
+
+<a href="https://yash-sonalekar.vercel.app">visit portfolio</a>
+
+</p>
