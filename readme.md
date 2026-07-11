@@ -1,5 +1,5 @@
 <p>
-Backend, Cloud Security & Agentic Systems
+Backend & Agentic Systems
 </p>
 <p>
 First make it, then make it work, then make it work better!
